@@ -7,8 +7,8 @@ you. The task is to make your own spotify clone. Here we gooo
 
 ### Tasks
 
-- [ ] Create a CRUD for songs with cloud storage
-- [ ] Create a front for song implementation(take data from backend)
+- [x] Create a CRUD for songs with cloud storage
+- [x] Create a front for song implementation(take data from backend)
 - [ ] Implement user authentication and authorization
 
 ## 🥈 Medium Level

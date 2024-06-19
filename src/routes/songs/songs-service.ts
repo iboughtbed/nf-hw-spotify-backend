@@ -40,7 +40,7 @@ class SongsService {
 
     const {
       data: { publicUrl: imageUrl },
-    } = storage.getPublicUrl(audioId);
+    } = storage.getPublicUrl(imageId);
 
     const newSong = new SongModel({
       name,
